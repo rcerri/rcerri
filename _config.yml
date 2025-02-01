@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Multi-Output Learning"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ricardo Cerri"
 description              : &description "personal description"
 url                      : https://rcerri.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/rcerri" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Ricardo Cerri"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Machine Learning researcher, Assistant Professor at ICMC/USP"
+  location         : "São Carlos - SP - Brazil"
+  employer         : "Institute of Mathematics and Computer Science - ICMC"
+  employer         : "University of São Paulo - USP"
   uri              : # URL
   email            : "cerri@icmc.usp.br" 
 
