@@ -91,8 +91,7 @@
 
   img {
     max-width: 175px;
-    max-height: 375px; // Cerri
-    border-radius: 90%; // Cerri
+    border-radius: 200%; // Cerri
 
     @include breakpoint($large) {
       padding: 5px;
